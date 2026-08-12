@@ -23,7 +23,7 @@ This project analyzes these questions and converts raw transactional data into a
 
 ## 📊 Dataset
 
-**Dataset:** DataCo Smart Supply Chain  
+**Dataset:** https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis 
 **Source:** Kaggle  
 **Domain:** Supply Chain, Logistics & Operations Analytics
 
